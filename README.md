@@ -1,14 +1,13 @@
-- npm run dev
+`npm run dev`
 
 - npm install --legacy-peer-deps -D postcss autoprefixer  
 - run npx tailwindcss init -p again
+---
+- `npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom`  
+- `npx tailwindcss init`
 
-- npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom  
-- npx tailwindcss init
-
-npm i -D tailwindcss
-
-npm create vite@latest ./ -- --template react
+`npm i -D tailwindcss`
+`npm create vite@latest ./ -- --template react`
 
 
 # React + Vite
